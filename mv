@@ -1,0 +1,5 @@
+The mv command allows you to move a file or directory.
+eg. mv fileName ../fileName - will allow you to move a file to the parent directory.
+
+You can also use the mv command to rename files.
+eg. mv fileName newFileName
