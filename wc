@@ -1,0 +1,3 @@
+wc or word count allows you to print the byte, word and line count. 
+example: wc long.txt
+You can choose to do just the line count by using wc -l this can be really usful when piping.
