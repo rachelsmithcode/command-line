@@ -1,0 +1,3 @@
+The grep command is very useful. It allows you to find things inside files. You can search by first letter using ^ or use the
+* wildcard symbol.
+example: grep ^T 
